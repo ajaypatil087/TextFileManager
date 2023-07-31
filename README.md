@@ -5,11 +5,19 @@ For getting started with NodeServer
 
 
 ## Step 1
+Create two folders
+```bash
+mkdir assets
+mkdir Musics
+```
+
+ ## Step 2
 open terminal set the path to NodeServer 
 ```bash
 npm i
 ```
 
+## Step 3
 ```bash
 npm start
 ```
