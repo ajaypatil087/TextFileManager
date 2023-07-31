@@ -1,4 +1,5 @@
-Before Starting get two different Terminals for NodeServer and FileManagerApp
+Before Starting get two different Terminals for NodeServer and FileManagerApp.
+
 For getting started with NodeServer
 # Getting started Node Server
 
