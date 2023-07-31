@@ -1,3 +1,22 @@
+Before Starting get two different Terminals for NodeServer and FileManagerApp
+For Starting getting started woth NodeServer
+# Getting started Node Server
+
+
+## Step 1
+open terminal set the path to NodeServer 
+```bash
+# using npm 
+npm i
+```
+
+```bash
+#using npm
+npm start
+```
+
+# React-native app 
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
