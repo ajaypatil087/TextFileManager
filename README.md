@@ -8,7 +8,7 @@ For getting started with NodeServer
 Create two folders
 ```bash
 mkdir assets
-mkdir Musics
+mkdir Music
 ```
 
  ## Step 2
