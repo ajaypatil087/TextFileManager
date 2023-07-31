@@ -7,12 +7,10 @@ For getting started with NodeServer
 ## Step 1
 open terminal set the path to NodeServer 
 ```bash
-# using npm 
 npm i
 ```
 
 ```bash
-#using npm
 npm start
 ```
 
