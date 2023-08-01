@@ -44,11 +44,12 @@ npm start
 yarn start
 ```
 
-## Step 4: API IP
+## Step 2: API IP
 
 check your laptop's IP
 
-Go to Component/Util.tsx
+Go to Component
+open `Util.tsx` and modify the IP to you'r Node server's IP
 relace you IP 
 // baseURL: 'http://192.168.1.2:8080/api',
                         ^ Your IP
