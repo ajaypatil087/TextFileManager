@@ -50,9 +50,7 @@ check your laptop's IP
 
 Go to Component
 open `Util.tsx` and modify the IP to you'r Node server's IP
-relace you IP 
-// baseURL: 'http://192.168.1.2:8080/api',
-                        ^ Your IP
+relace you IP in baseURL
 
 ## Step 3: Start your Application
 
