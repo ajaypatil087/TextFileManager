@@ -44,7 +44,16 @@ npm start
 yarn start
 ```
 
-## Step 2: Start your Application
+## Step 4: API IP
+
+check your laptop's IP
+
+Go to Component/Util.tsx
+relace you IP 
+// baseURL: 'http://192.168.1.2:8080/api',
+                        ^ Your IP
+
+## Step 3: Start your Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
